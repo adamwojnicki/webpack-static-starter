@@ -1,7 +1,4 @@
-.main {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    color: green;
-    height: 100vh;
+body {
+    background: black;
+    color: ivory;
 }

@@ -34,7 +34,7 @@ const config = {
   devServer: {
     open: true,
     publicPath: "",
-    contentBase: path.resolve(__dirname, "dist"),
+    contentBase: path.resolve(__dirname, "src"),
     watchContentBase: true,
     compress: true,
   },
